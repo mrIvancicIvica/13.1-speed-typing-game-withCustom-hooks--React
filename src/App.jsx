@@ -13,7 +13,7 @@ export default function App() {
     startGame,
     time,
     wordCount
-  } =useWordGame(12)
+  } =useWordGame(20)
 
  
 
